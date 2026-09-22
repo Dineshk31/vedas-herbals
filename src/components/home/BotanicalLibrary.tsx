@@ -97,9 +97,24 @@ export function BotanicalLibrary({ limit, showCta = true }: BotanicalLibraryProp
                         <p className="mt-3 text-xs text-ink-soft/70 leading-relaxed">
                           {b.traditionalAssociation}
                         </p>
-                        <p className="mt-3 text-[11px] uppercase tracking-wide text-rust-600 font-semibold">
-                          Found in: {products.map((p) => p.name).join(", ")}
-                        </p>
+                        {b.benefits.length > 0 && (
+                          <ul className="mt-3 space-y-1">
+                            {b.benefits.map((benefit) => (
+                              <li
+                                key={benefit}
+                                className="text-xs text-ink-soft/70 leading-relaxed flex items-start gap-1.5"
+                              >
+                                <span className={`mt-1.5 h-1 w-1 shrink-0 rounded-full ${colors.text}`} />
+                                {benefit}
+                              </li>
+                            ))}
+                          </ul>
+                        )}
+                        {products.length > 0 && (
+                          <p className="mt-3 text-[11px] uppercase tracking-wide text-rust-600 font-semibold">
+                            Found in: {products.map((p) => p.name).join(", ")}
+                          </p>
+                        )}
                       </motion.div>
                     )}
                   </AnimatePresence>
