@@ -163,7 +163,7 @@ export const PRODUCTS: Product[] = [
   {
     id: "amrood",
     slug: "amrood-tea",
-    name: "Amrood Tea",
+    name: "Amrood Tea (Guava Tea)",
     sanskritNote: "Guava Leaf",
     category: "herbal-tea",
     collection: "The Herbal Collection",

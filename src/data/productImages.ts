@@ -4,4 +4,5 @@ export const PRODUCT_IMAGES: Record<string, string> = {
   "aswattha-tea": "/images/products/aswattha-tea.jpg",
   "lemongrass-tea": "/images/products/lemongrass-tea.jpg",
   "pudina-tea": "/images/products/pudina-tea.jpg",
+  "amrood-tea": "/images/products/amrood-tea.jpg",
 };
