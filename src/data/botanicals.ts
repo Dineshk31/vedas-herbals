@@ -35,12 +35,13 @@ export const BOTANICALS: Botanical[] = [
     color: "rust",
   },
   {
-    id: "raavi",
-    name: "Raavi Leaf",
+    id: "aswattha",
+    name: "Aswattha Leaf",
+    localName: "Peepal",
     traditionalAssociation:
       "A cooling herb, traditionally reached for on warm days to ease heat and bloating.",
     benefits: ["Helps Reduce Body Heat", "Controls Gas & Bloating", "Relieves Skin Issues"],
-    productSlugs: ["raavi-tea"],
+    productSlugs: ["aswattha-tea"],
     color: "moss",
   },
   {
@@ -64,14 +65,14 @@ export const BOTANICALS: Botanical[] = [
     color: "moss",
   },
   {
-    id: "thati-bellam",
-    name: "Thati Bellam",
-    localName: "Palm Jaggery",
+    id: "amrood",
+    name: "Amrood Leaf",
+    localName: "Guava Leaf",
     traditionalAssociation:
-      "Traditional palm jaggery from South India, used in place of refined sugar for a warmer, mineral-rich sweetness.",
-    benefits: ["Provides Natural Iron", "Reduces Weakness", "Reduces Fatigue"],
-    productSlugs: ["thati-bellam-coffee"],
-    color: "gold",
+      "Guava leaf, traditionally infused for its calming character and role in supporting healthy blood sugar.",
+    benefits: ["Controls Blood Sugar", "Supports Digestion", "Rich in Antioxidants"],
+    productSlugs: ["amrood-tea"],
+    color: "moss",
   },
   {
     id: "sonti",

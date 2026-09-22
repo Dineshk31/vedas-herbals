@@ -108,8 +108,8 @@ export function Hero() {
           className="mt-8 max-w-md text-sm sm:text-base text-ink-soft/75 leading-relaxed"
         >
           Herbal wisdom, brewed for the modern ritual. Six infusions rooted in
-          Indian tradition — Bilva, Arjuna, Raavi, Lemongrass, Pudina and Thati
-          Bellam Coffee.
+          Indian tradition — Bilva, Arjuna, Aswattha, Lemongrass, Pudina and
+          Amrood.
         </motion.p>
 
         <motion.div

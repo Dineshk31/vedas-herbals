@@ -36,7 +36,7 @@ export function Shop() {
               The Ourva <span className="italic text-rust-600">Collection</span>
             </>
           }
-          description="Herbal infusions and a traditional warm cup, brewed from whole botanicals — no online payment, order directly on WhatsApp."
+          description="Herbal infusions brewed from whole botanicals — no online payment, order directly on WhatsApp."
           className="mb-12"
         />
 

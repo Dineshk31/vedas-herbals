@@ -33,8 +33,8 @@ export function ArjunaArt(props: SVGProps<SVGSVGElement>) {
   );
 }
 
-/** Raavi — peepal leaf, heart-shaped with a long drip-tip */
-export function RaaviArt(props: SVGProps<SVGSVGElement>) {
+/** Aswattha — peepal leaf, heart-shaped with a long drip-tip */
+export function AswatthaArt(props: SVGProps<SVGSVGElement>) {
   return (
     <svg viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
       <path
@@ -97,23 +97,28 @@ export function PudinaArt(props: SVGProps<SVGSVGElement>) {
   );
 }
 
-/** Thati Bellam — palm silhouette over a coffee cup */
-export function ThatiBellamArt(props: SVGProps<SVGSVGElement>) {
+/** Amrood — guava leaf, broad oval with strong diagonal side veins */
+export function AmroodArt(props: SVGProps<SVGSVGElement>) {
   return (
     <svg viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
-      <path d="M100 108V150" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
-      <g stroke="currentColor" strokeWidth="1.25">
-        <path d="M100 108C100 108 78 96 70 74C90 78 100 92 100 108Z" />
-        <path d="M100 108C100 108 122 96 130 74C110 78 100 92 100 108Z" />
-        <path d="M100 100C100 100 84 84 82 60C100 68 104 84 100 100Z" />
-        <path d="M100 100C100 100 116 84 118 60C100 68 96 84 100 100Z" />
-        <path d="M100 96C100 96 96 76 100 54C104 76 100 96 100 96Z" />
-      </g>
-      <g stroke="currentColor" strokeWidth="1.5">
-        <path d="M62 152H138V172C138 180 132 186 124 186H76C68 186 62 180 62 172V152Z" />
-        <path d="M138 158H148C154 158 158 163 158 169C158 175 154 180 148 180H138" />
-      </g>
-      <path d="M78 152C77 146 81 141 78 133M100 152C99 146 103 141 100 133M122 152C121 146 125 141 122 133" stroke="currentColor" strokeWidth="1" strokeOpacity="0.55" strokeLinecap="round" />
+      <path
+        d="M100 32C130 50 152 78 152 108C152 140 128 165 100 172C72 165 48 140 48 108C48 78 70 50 100 32Z"
+        stroke="currentColor"
+        strokeWidth="1.5"
+      />
+      <path d="M100 32V172" stroke="currentColor" strokeWidth="1" strokeOpacity="0.6" />
+      <path
+        d="M100 58C88 64 74 68 62 68M100 78C86 86 70 90 56 90M100 98C84 108 66 112 50 112M100 118C86 128 70 133 56 135M100 138C88 146 76 151 64 154"
+        stroke="currentColor"
+        strokeWidth="0.8"
+        strokeOpacity="0.55"
+      />
+      <path
+        d="M100 58C112 64 126 68 138 68M100 78C114 86 130 90 144 90M100 98C116 108 134 112 150 112M100 118C114 128 130 133 144 135M100 138C112 146 124 151 136 154"
+        stroke="currentColor"
+        strokeWidth="0.8"
+        strokeOpacity="0.55"
+      />
     </svg>
   );
 }
@@ -121,8 +126,8 @@ export function ThatiBellamArt(props: SVGProps<SVGSVGElement>) {
 export const PRODUCT_ART: Record<string, (props: SVGProps<SVGSVGElement>) => React.JSX.Element> = {
   "bilva-tea": BilvaArt,
   "arjuna-tea": ArjunaArt,
-  "raavi-tea": RaaviArt,
+  "aswattha-tea": AswatthaArt,
   "lemongrass-tea": LemongrassArt,
   "pudina-tea": PudinaArt,
-  "thati-bellam-coffee": ThatiBellamArt,
+  "amrood-tea": AmroodArt,
 };

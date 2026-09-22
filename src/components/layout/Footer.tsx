@@ -10,7 +10,6 @@ const FOOTER_LINKS = [
     links: [
       { label: "All Teas", to: "/shop" },
       { label: "The Herbal Collection", to: "/shop#herbal-collection" },
-      { label: "The Warm Cup", to: "/shop#warm-cup" },
       { label: "Wishlist", to: "/wishlist" },
     ],
   },
