@@ -25,12 +25,12 @@ const CONTENT: Record<
 > = {
   en: {
     eyebrow: "Our Story",
-    heroLine1: "From kasayam,",
+    heroLine1: "From kashayam,",
     heroLine2: "to a cup kids ask for",
     heroEmphasis: "again.",
     story: [
-      "It began during the pandemic. Like most Indian households, we turned to kasayam — the herbal decoctions our grandmothers swore by — to keep immunity strong when the world felt uncertain.",
-      "The trouble was the children. A bitter cup of kasayam is easy enough to serve an adult and almost impossible to get a child to finish. So we started experimenting — keeping the same herbs, the same intent, but brewing them into something aromatic and flavorful enough that a child would ask for a second cup.",
+      "It began during the pandemic. Like most Indian households, we turned to kashayam — the herbal decoctions our grandmothers swore by — to keep immunity strong when the world felt uncertain.",
+      "The trouble was the children. A bitter cup of kashayam is easy enough to serve an adult and almost impossible to get a child to finish. So we started experimenting — keeping the same herbs, the same intent, but brewing them into something aromatic and flavorful enough that a child would ask for a second cup.",
       "That is how Ourva began. Not as a tea brand first, but as a search — for which leaves, barks and roots actually support the body's immunity, and how to bring them into a daily cup the whole family could enjoy.",
       "Ourva Herbal Teas continues that practice from Visakhapatnam: whole botanicals, brewed simply, without shortcuts or extracts. Six infusions, each carrying a single tradition — Bilva, Arjuna, Aswattha, Lemongrass, Pudina, and Amrood.",
       "The idea is a small one: that a daily cup, chosen with intent, is enough to build a ritual worth keeping.",
@@ -39,8 +39,8 @@ const CONTENT: Record<
     historyTitle: "History Behind Ourva",
     history: [
       "Tea, as most of us drink it today, isn't originally Indian. Along with buffalo milk, it was introduced during British rule — brought in as a colonial crop and, over generations, folded into what we now think of as an everyday Indian habit.",
-      "As the story is told, the British were curious about something else too: why Indians, through famine, disease and hardship, stayed remarkably resilient. What they traced it back to was ordinary — food and water stored and cooked in clay, milk from the cow, and a daily cup of kasayam, the herbal decoction passed down through the household.",
-      "Ourva is our attempt to bring that older, quieter tradition back into daily life — not as a borrowed tea culture, but as kasayam, reimagined as tea: whole herbs, honestly brewed, made easy enough for a family to return to every single day.",
+      "As the story is told, the British were curious about something else too: why Indians, through famine, disease and hardship, stayed remarkably resilient. What they traced it back to was ordinary — food and water stored and cooked in clay, milk from the cow, and a daily cup of kashayam, the herbal decoction passed down through the household.",
+      "Ourva is our attempt to bring that older, quieter tradition back into daily life — not as a borrowed tea culture, but as kashayam, reimagined as tea: whole herbs, honestly brewed, made easy enough for a family to return to every single day.",
     ],
     visitHeading: "Visit Us",
   },
