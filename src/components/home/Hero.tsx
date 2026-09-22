@@ -78,7 +78,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.15 }}
           className="text-[11px] sm:text-xs tracking-[0.32em] uppercase text-rust-600 font-semibold mb-5"
         >
-          Authentic Taste of Timeless Tradition
+          Rooted in Tradition. Crafted for Wellness.
         </motion.p>
 
         <div className="relative">

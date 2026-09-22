@@ -24,7 +24,7 @@ export function Ayurveda() {
             behind the <span className="italic text-rust-600">cup</span>
           </h1>
           <p className="mt-6 text-sm sm:text-base text-ink-soft/70 leading-relaxed max-w-lg mx-auto">
-            Vedas Herbal Tea draws on Indian herbal tradition — whole
+            Ourva Herbal Teas draws on Indian herbal tradition — whole
             botanicals, brewed simply, the way they have been for
             generations. Each cup carries a single, recognisable ingredient
             rather than a blend of extracts.
@@ -40,7 +40,7 @@ export function Ayurveda() {
           <p className="mt-4 text-sm text-ink-soft/65 leading-relaxed">
             The associations shared here reflect traditional Indian herbal
             practice, passed down through generations rather than
-            manufactured claims. Vedas Herbal Tea is a daily wellness
+            manufactured claims. Ourva Herbal Teas is a daily wellness
             ritual, not a medical treatment — if you have a specific health
             condition, please consult a qualified professional.
           </p>

@@ -94,7 +94,7 @@ export function ProductShowcase() {
             eyebrow="Discover"
             title={
               <>
-                The Vedas <span className="italic text-rust-600">Collection</span>
+                The Ourva <span className="italic text-rust-600">Collection</span>
               </>
             }
             description="Swipe to explore each infusion."
@@ -118,7 +118,7 @@ export function ProductShowcase() {
             eyebrow="Discover"
             title={
               <>
-                The Vedas <span className="italic text-rust-600">Collection</span>
+                The Ourva <span className="italic text-rust-600">Collection</span>
               </>
             }
             description="Scroll to move through each infusion, like turning the pages of a catalogue."

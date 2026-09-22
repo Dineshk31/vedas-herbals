@@ -57,7 +57,7 @@ export function Header({ onSearchOpen, transparentOnTop = false }: HeaderProps) 
             className="font-display text-xl sm:text-2xl tracking-[0.08em] text-ink transition-colors"
             data-cursor="home"
           >
-            VEDAS
+            OURVA
           </Link>
 
           <nav className="hidden lg:flex items-center gap-9">

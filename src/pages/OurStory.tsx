@@ -42,7 +42,7 @@ export function OurStory() {
             feeling well.
           </p>
           <p className="text-base sm:text-lg text-ink-soft/75 leading-relaxed">
-            Vedas Herbal Tea continues that practice from Visakhapatnam:
+            Ourva Herbal Teas continues that practice from Visakhapatnam:
             whole botanicals, brewed simply, without shortcuts or
             extracts. Six infusions, each carrying a single tradition —
             {" "}Bilva, Arjuna, Raavi, Lemongrass, Pudina, and Thati Bellam

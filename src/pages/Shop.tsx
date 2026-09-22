@@ -33,7 +33,7 @@ export function Shop() {
           eyebrow="Shop"
           title={
             <>
-              The Vedas <span className="italic text-rust-600">Collection</span>
+              The Ourva <span className="italic text-rust-600">Collection</span>
             </>
           }
           description="Herbal infusions and a traditional warm cup, brewed from whole botanicals — no online payment, order directly on WhatsApp."

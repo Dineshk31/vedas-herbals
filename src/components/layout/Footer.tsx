@@ -42,7 +42,7 @@ export function Footer() {
       <div className="relative mx-auto max-w-[1440px] px-5 sm:px-8 pt-20 sm:pt-28 pb-10">
         <div className="grid grid-cols-1 lg:grid-cols-[1.4fr_1fr_1fr_1fr] gap-14 lg:gap-8 pb-16 border-b border-cream/10">
           <div>
-            <h2 className="font-display text-5xl sm:text-6xl leading-[0.95]">VEDAS</h2>
+            <h2 className="font-display text-5xl sm:text-6xl leading-[0.95]">OURVA</h2>
             <p className="mt-4 text-cream/60 max-w-xs text-sm leading-relaxed">
               {SITE.tagline}. {SITE.subTagline}.
             </p>
@@ -106,7 +106,7 @@ export function Footer() {
             </span>
           </div>
           <p className="text-cream/30 text-xs">
-            © {new Date().getFullYear()} Vedas Herbal Tea. Crafted with tradition.
+            © {new Date().getFullYear()} Ourva Herbal Teas. Crafted with tradition.
           </p>
         </div>
       </div>

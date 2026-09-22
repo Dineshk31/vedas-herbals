@@ -30,7 +30,7 @@ export function JournalArticlePage() {
         <h1 className="font-display text-3xl sm:text-5xl leading-[1.1] text-ink">{article.title}</h1>
 
         <div className="mt-10 aspect-[16/9] rounded-[4px] bg-gradient-to-br from-cream-deep to-cream-light flex items-center justify-center">
-          <span className="font-display text-6xl text-rust-700/15">Vedas</span>
+          <span className="font-display text-6xl text-rust-700/15">Ourva</span>
         </div>
 
         <div className="mt-10 space-y-6">

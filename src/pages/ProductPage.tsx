@@ -148,7 +148,7 @@ export function ProductPage() {
               <div>
                 <p className="font-semibold text-ink">Is this a medical treatment?</p>
                 <p className="text-ink-soft/65 mt-1">
-                  No — Vedas teas are traditional herbal infusions for daily wellness, not a substitute for medical advice.
+                  No — Ourva teas are traditional herbal infusions for daily wellness, not a substitute for medical advice.
                 </p>
               </div>
               <div>

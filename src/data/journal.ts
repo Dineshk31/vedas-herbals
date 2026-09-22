@@ -15,13 +15,13 @@ export const JOURNAL_ARTICLES: JournalArticle[] = [
     readTime: "4 min read",
     body: [
       "Long before tea became a global commodity, Indian households were steeping leaves, bark and grass into daily infusions — not for ceremony, but for the ordinary business of feeling well.",
-      "Vedas Herbal Tea continues that practice: whole botanicals, simply brewed, without shortcuts.",
+      "Ourva Herbal Teas continues that practice: whole botanicals, simply brewed, without shortcuts.",
       "This space will grow with more writing on brewing, botanicals and the daily cup — check back as it develops.",
     ],
   },
   {
-    slug: "the-vedas-ritual",
-    title: "The Vedas Ritual",
+    slug: "the-ourva-ritual",
+    title: "The Ourva Ritual",
     excerpt:
       "A ritual doesn't need to be elaborate. It needs to be repeated — the same cup, the same pause, on most days.",
     readTime: "3 min read",
@@ -35,10 +35,10 @@ export const JOURNAL_ARTICLES: JournalArticle[] = [
     slug: "traditional-indian-botanicals",
     title: "Traditional Indian Botanicals",
     excerpt:
-      "Bael, Arjuna, lemongrass, mint — a short introduction to the botanicals behind the Vedas collection.",
+      "Bael, Arjuna, lemongrass, mint — a short introduction to the botanicals behind the Ourva collection.",
     readTime: "5 min read",
     body: [
-      "Each infusion in the Vedas collection is built from a single, recognisable botanical rather than a blend of extracts.",
+      "Each infusion in the Ourva collection is built from a single, recognisable botanical rather than a blend of extracts.",
       "Explore the Botanicals library to see how each one is traditionally used, and which cup it belongs to.",
       "Detailed botanical profiles will continue to be added here.",
     ],

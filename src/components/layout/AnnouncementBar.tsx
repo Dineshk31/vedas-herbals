@@ -1,10 +1,10 @@
 import { SITE } from "@/config/site";
 
 const MESSAGES = [
-  "Your Daily Cup of Wellness",
+  "Rooted in Tradition",
   "100% Natural Ingredients · No Chemicals",
   `Order on WhatsApp — ${SITE.whatsapp.primaryDisplay}`,
-  "Authentic Taste of Timeless Tradition",
+  "Crafted for Wellness",
 ];
 
 export function AnnouncementBar() {

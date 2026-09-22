@@ -18,7 +18,7 @@ export function CustomCursor() {
   useEffect(() => {
     if (!active) return;
 
-    document.documentElement.classList.add("vedas-cursor-active");
+    document.documentElement.classList.add("ourva-cursor-active");
 
     function handleMove(e: MouseEvent) {
       x.set(e.clientX);
@@ -34,7 +34,7 @@ export function CustomCursor() {
     window.addEventListener("mousemove", handleMove);
     document.addEventListener("mouseleave", handleLeave);
     return () => {
-      document.documentElement.classList.remove("vedas-cursor-active");
+      document.documentElement.classList.remove("ourva-cursor-active");
       window.removeEventListener("mousemove", handleMove);
       document.removeEventListener("mouseleave", handleLeave);
     };

@@ -31,7 +31,7 @@ export function BotanicalLibrary({ limit, showCta = true }: BotanicalLibraryProp
             eyebrow="The Wisdom Behind the Cup"
             title={
               <>
-                Botanicals of <span className="italic text-rust-600">Vedas</span>
+                Botanicals of <span className="italic text-rust-600">Ourva</span>
               </>
             }
             description="Each infusion begins with a single, recognisable botanical — explore the tradition behind every leaf."

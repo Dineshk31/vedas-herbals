@@ -12,7 +12,7 @@ function buildWhatsAppUrl(phone: string, message: string) {
 
 export function generateProductEnquiry(product: Product): string {
   return [
-    "Hello Vedas Herbal Tea 🌿",
+    "Hello Ourva Herbal Teas 🌿",
     `I'm interested in:`,
     product.name,
     `Quantity: 1`,
@@ -23,7 +23,7 @@ export function generateProductEnquiry(product: Product): string {
 
 export function generateWhatsAppOrder(product: Product, quantity: number): string {
   return [
-    "Hello Vedas Herbal Tea 🌿",
+    "Hello Ourva Herbal Teas 🌿",
     "I'm interested in:",
     product.name,
     `Quantity: ${quantity}`,
@@ -34,11 +34,11 @@ export function generateWhatsAppOrder(product: Product, quantity: number): strin
 
 export function generateCartMessage(lines: CartLine[]): string {
   if (lines.length === 0) {
-    return "Hello Vedas Herbal Tea 🌿\nI'd like to know more about your teas.";
+    return "Hello Ourva Herbal Teas 🌿\nI'd like to know more about your teas.";
   }
   const items = lines.map((l) => `${l.product.name} × ${l.quantity}`).join("\n");
   return [
-    "Hello Vedas Herbal Tea 🌿",
+    "Hello Ourva Herbal Teas 🌿",
     "I'd like to order:",
     items,
     "",
@@ -60,5 +60,5 @@ export function whatsappLinkForCart(lines: CartLine[], phone: string = SITE.what
 }
 
 export function whatsappLinkGeneral(phone: string = SITE.whatsapp.primary) {
-  return buildWhatsAppUrl(phone, "Hello Vedas Herbal Tea 🌿\nI'd like to know more about your teas.");
+  return buildWhatsAppUrl(phone, "Hello Ourva Herbal Teas 🌿\nI'd like to know more about your teas.");
 }

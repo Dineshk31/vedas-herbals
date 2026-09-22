@@ -22,7 +22,7 @@ export function RitualFinderTeaser() {
       <div className="relative mx-auto max-w-[1200px] px-5 sm:px-8 grid grid-cols-1 lg:grid-cols-2 gap-14 items-center">
         <div>
           <p className="text-xs tracking-[0.3em] uppercase text-gold-soft font-semibold mb-5">
-            Find Your Vedas Ritual
+            Find Your Ourva Ritual
           </p>
           <h2 className="font-display text-4xl sm:text-5xl leading-[1.08]">
             What does your cup need

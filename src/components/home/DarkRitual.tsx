@@ -56,7 +56,7 @@ export function DarkRitual() {
           transition={{ duration: 0.7, delay: 0.25 }}
           className="mt-7 text-cream/65 text-base sm:text-lg leading-relaxed max-w-xl mx-auto"
         >
-          Not every cup needs to be quick. Vedas Lemongrass Tea is brewed for
+          Not every cup needs to be quick. Ourva Lemongrass Tea is brewed for
           the evenings that ask you to pause — a bright, calming infusion to
           let the day loosen its grip.
         </motion.p>

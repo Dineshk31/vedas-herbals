@@ -30,7 +30,7 @@ export function RitualFinder() {
     >
       <div className="mx-auto max-w-3xl px-5 sm:px-8 text-center">
         <p className="text-xs tracking-[0.3em] uppercase text-rust-600 font-semibold mb-5">
-          Find Your Vedas Ritual
+          Find Your Ourva Ritual
         </p>
 
         <AnimatePresence mode="wait">

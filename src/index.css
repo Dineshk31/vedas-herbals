@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-  /* ---- Vedas brand palette, drawn from the flyer's rust-on-cream identity ---- */
+  /* ---- Ourva brand palette, drawn from the flyer's rust-on-cream identity ---- */
   --color-cream: #F6EEDF;
   --color-cream-light: #FBF6EC;
   --color-cream-deep: #EAE0C9;
@@ -32,7 +32,7 @@
   --font-display: "Fraunces", "Georgia", serif;
   --font-body: "Manrope", system-ui, sans-serif;
 
-  --ease-vedas: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-ourva: cubic-bezier(0.22, 1, 0.36, 1);
 }
 
 @custom-variant hover-fine (@media (hover: hover) and (pointer: fine));
@@ -116,11 +116,11 @@
 }
 
 /* Hide native cursor only when our custom cursor is active (desktop, fine pointer) */
-.vedas-cursor-active {
+.ourva-cursor-active {
   cursor: none;
 }
-.vedas-cursor-active a,
-.vedas-cursor-active button {
+.ourva-cursor-active a,
+.ourva-cursor-active button {
   cursor: none;
 }
 

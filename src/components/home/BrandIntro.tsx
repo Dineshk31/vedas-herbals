@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { usePrefersReducedMotion } from "@/hooks/useReducedMotion";
 
-const SEEN_KEY = "vedas-intro-seen";
+const SEEN_KEY = "ourva-intro-seen";
 
 export function BrandIntro() {
   const reducedMotion = usePrefersReducedMotion();
@@ -56,7 +56,7 @@ export function BrandIntro() {
               transition={{ duration: 0.5, delay: 0.45, ease: [0.22, 1, 0.36, 1] }}
               className="mt-4 font-display text-2xl text-ink"
             >
-              VEDAS
+              OURVA
             </motion.h1>
           </div>
         </motion.div>

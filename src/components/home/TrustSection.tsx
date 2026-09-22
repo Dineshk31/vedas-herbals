@@ -16,7 +16,7 @@ export function TrustSection() {
           <BranchDivider className="w-40 sm:w-56 mx-auto text-rust-400" />
         </div>
         <p className="text-center text-xs tracking-[0.28em] uppercase text-rust-600 font-semibold mb-14">
-          Why Choose Vedas
+          Why Choose Ourva
         </p>
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-8 sm:gap-6">
           {PILLARS.map((p, i) => (

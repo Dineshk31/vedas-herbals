@@ -1,7 +1,7 @@
 export const SITE = {
-  name: "Vedas Herbal Tea",
-  tagline: "Your Daily Cup of Wellness",
-  subTagline: "Authentic Taste of Timeless Tradition",
+  name: "Ourva Herbal Teas",
+  tagline: "Rooted in Tradition",
+  subTagline: "Crafted for Wellness",
   instagramHandle: "vedasherbaltea",
   instagramUrl: "https://instagram.com/vedasherbaltea",
   address: {
