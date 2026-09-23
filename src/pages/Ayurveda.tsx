@@ -16,7 +16,7 @@ export function Ayurveda() {
         </div>
         <div className="relative mx-auto max-w-2xl px-5">
           <p className="text-xs tracking-[0.3em] uppercase text-rust-600 font-semibold mb-5">
-            Ayurveda &amp; Tradition
+            Benefits &amp; Tradition
           </p>
           <h1 className="font-display text-4xl sm:text-6xl leading-[1.08] text-ink">
             The wisdom

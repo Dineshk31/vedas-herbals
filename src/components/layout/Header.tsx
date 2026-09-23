@@ -9,7 +9,7 @@ const NAV_LINKS = [
   { label: "Shop", to: "/shop" },
   { label: "Collections", to: "/shop#collections" },
   { label: "Rituals", to: "/rituals" },
-  { label: "Ayurveda", to: "/ayurveda" },
+  { label: "Benefits", to: "/ayurveda" },
   { label: "Our Story", to: "/our-story" },
   { label: "Journal", to: "/journal" },
 ];
