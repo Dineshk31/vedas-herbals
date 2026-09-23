@@ -28,7 +28,7 @@ export function BotanicalLibrary({ limit, showCta = true }: BotanicalLibraryProp
       <div className="mx-auto max-w-[1200px] px-5 sm:px-8">
         <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-6 mb-14">
           <SectionHeading
-            eyebrow="The Wisdom Behind the Cup"
+            eyebrow="Benefits"
             title={
               <>
                 Botanicals of <span className="italic text-rust-600">Ourva</span>
